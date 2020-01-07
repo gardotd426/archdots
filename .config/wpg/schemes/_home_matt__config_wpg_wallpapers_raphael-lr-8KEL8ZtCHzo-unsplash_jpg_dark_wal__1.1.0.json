@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/raphael-lr-8KEL8ZtCHzo-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#170919",
+        "foreground": "#c5c3f1",
+        "cursor": "#c5c3f1"
+    },
+    "colors": {
+        "color0": "#170919",
+        "color1": "#0B68DF",
+        "color2": "#9F4C9A",
+        "color3": "#C060B4",
+        "color4": "#0F8DF5",
+        "color5": "#6393F2",
+        "color6": "#66B9E5",
+        "color7": "#c5c3f1",
+        "color8": "#8988a8",
+        "color9": "#0B68DF",
+        "color10": "#9F4C9A",
+        "color11": "#C060B4",
+        "color12": "#0F8DF5",
+        "color13": "#6393F2",
+        "color14": "#66B9E5",
+        "color15": "#c5c3f1"
+    }
+}

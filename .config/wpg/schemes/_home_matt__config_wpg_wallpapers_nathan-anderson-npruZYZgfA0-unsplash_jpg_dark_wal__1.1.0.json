@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/nathan-anderson-npruZYZgfA0-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f070e",
+        "foreground": "#cbadbe",
+        "cursor": "#cbadbe"
+    },
+    "colors": {
+        "color0": "#0f070e",
+        "color1": "#372747",
+        "color2": "#4F334C",
+        "color3": "#623856",
+        "color4": "#6D495A",
+        "color5": "#9F5834",
+        "color6": "#9A5E64",
+        "color7": "#cbadbe",
+        "color8": "#8e7985",
+        "color9": "#372747",
+        "color10": "#4F334C",
+        "color11": "#623856",
+        "color12": "#6D495A",
+        "color13": "#9F5834",
+        "color14": "#9A5E64",
+        "color15": "#cbadbe"
+    }
+}

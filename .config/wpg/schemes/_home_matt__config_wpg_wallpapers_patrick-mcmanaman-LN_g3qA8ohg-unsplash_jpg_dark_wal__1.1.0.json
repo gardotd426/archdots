@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/patrick-mcmanaman-LN_g3qA8ohg-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#080d15",
+        "foreground": "#b0bcc5",
+        "cursor": "#b0bcc5"
+    },
+    "colors": {
+        "color0": "#080d15",
+        "color1": "#364559",
+        "color2": "#3C4D64",
+        "color3": "#4A5C71",
+        "color4": "#313790",
+        "color5": "#5E7389",
+        "color6": "#827D93",
+        "color7": "#b0bcc5",
+        "color8": "#7b8389",
+        "color9": "#364559",
+        "color10": "#3C4D64",
+        "color11": "#4A5C71",
+        "color12": "#313790",
+        "color13": "#5E7389",
+        "color14": "#827D93",
+        "color15": "#b0bcc5"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/wallhaven-qde76l.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#302039",
+        "foreground": "#989eca",
+        "cursor": "#989eca"
+    },
+    "colors": {
+        "color0": "#302039",
+        "color1": "#512257",
+        "color2": "#185065",
+        "color3": "#574F68",
+        "color4": "#A53E53",
+        "color5": "#A08F7F",
+        "color6": "#1D509D",
+        "color7": "#989eca",
+        "color8": "#6a6e8d",
+        "color9": "#512257",
+        "color10": "#185065",
+        "color11": "#574F68",
+        "color12": "#A53E53",
+        "color13": "#A08F7F",
+        "color14": "#1D509D",
+        "color15": "#989eca"
+    }
+}

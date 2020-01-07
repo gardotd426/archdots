@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/serenity-mitchell-jHz1pcO7Zrw-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#191617",
+        "foreground": "#c5c4c5",
+        "cursor": "#c5c4c5"
+    },
+    "colors": {
+        "color0": "#191617",
+        "color1": "#340b75",
+        "color2": "#3f07d8",
+        "color3": "#772313",
+        "color4": "#711ff6",
+        "color5": "#d12f14",
+        "color6": "#e47917",
+        "color7": "#c5c4c5",
+        "color8": "#525051",
+        "color9": "#340b75",
+        "color10": "#3f07d8",
+        "color11": "#772313",
+        "color12": "#711ff6",
+        "color13": "#d12f14",
+        "color14": "#e47917",
+        "color15": "#c5c4c5"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/wallhaven-r2jr8w.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f0023",
+        "foreground": "#dccddf",
+        "cursor": "#dccddf"
+    },
+    "colors": {
+        "color0": "#0f0023",
+        "color1": "#280E94",
+        "color2": "#550F9A",
+        "color3": "#3A4EC3",
+        "color4": "#AC36C4",
+        "color5": "#EE65E2",
+        "color6": "#3EC0E8",
+        "color7": "#dccddf",
+        "color8": "#9a8f9c",
+        "color9": "#280E94",
+        "color10": "#550F9A",
+        "color11": "#3A4EC3",
+        "color12": "#AC36C4",
+        "color13": "#EE65E2",
+        "color14": "#3EC0E8",
+        "color15": "#dccddf"
+    }
+}

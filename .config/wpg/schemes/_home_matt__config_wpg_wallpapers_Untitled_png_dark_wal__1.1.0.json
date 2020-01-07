@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/Untitled.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#03020B",
+        "foreground": "#93cbde",
+        "cursor": "#93cbde"
+    },
+    "colors": {
+        "color0": "#03020B",
+        "color1": "#185594",
+        "color2": "#4750A1",
+        "color3": "#940AA5",
+        "color4": "#AE2DCF",
+        "color5": "#CF0CDC",
+        "color6": "#F602F7",
+        "color7": "#93cbde",
+        "color8": "#668e9b",
+        "color9": "#185594",
+        "color10": "#4750A1",
+        "color11": "#940AA5",
+        "color12": "#AE2DCF",
+        "color13": "#CF0CDC",
+        "color14": "#F602F7",
+        "color15": "#93cbde"
+    }
+}

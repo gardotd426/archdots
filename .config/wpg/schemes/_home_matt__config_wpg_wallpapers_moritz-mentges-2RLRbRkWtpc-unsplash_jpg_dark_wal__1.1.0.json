@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/moritz-mentges-2RLRbRkWtpc-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#040712",
+        "foreground": "#e6ccf3",
+        "cursor": "#e6ccf3"
+    },
+    "colors": {
+        "color0": "#040712",
+        "color1": "#57426E",
+        "color2": "#025C9A",
+        "color3": "#2360AB",
+        "color4": "#CB29DD",
+        "color5": "#0798D5",
+        "color6": "#32B0D5",
+        "color7": "#e6ccf3",
+        "color8": "#a18eaa",
+        "color9": "#57426E",
+        "color10": "#025C9A",
+        "color11": "#2360AB",
+        "color12": "#CB29DD",
+        "color13": "#0798D5",
+        "color14": "#32B0D5",
+        "color15": "#e6ccf3"
+    }
+}

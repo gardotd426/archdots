@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/wallhaven-nm85lm_1366x768.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#162120",
+        "foreground": "#caefdf",
+        "cursor": "#caefdf"
+    },
+    "colors": {
+        "color0": "#162120",
+        "color1": "#926E50",
+        "color2": "#638576",
+        "color3": "#A09568",
+        "color4": "#D5AE6A",
+        "color5": "#66AFA2",
+        "color6": "#BACCA0",
+        "color7": "#caefdf",
+        "color8": "#8da79c",
+        "color9": "#926E50",
+        "color10": "#638576",
+        "color11": "#A09568",
+        "color12": "#D5AE6A",
+        "color13": "#66AFA2",
+        "color14": "#BACCA0",
+        "color15": "#caefdf"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/wallhaven-gjzprl.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0c11",
+        "foreground": "#e2e9fb",
+        "cursor": "#e2e9fb"
+    },
+    "colors": {
+        "color0": "#0b0c11",
+        "color1": "#2B354B",
+        "color2": "#314965",
+        "color3": "#575D6F",
+        "color4": "#ff5f2a",
+        "color5": "#F3A331",
+        "color6": "#25688D",
+        "color7": "#aaafbc",
+        "color8": "#1e212f",
+        "color9": "#304269",
+        "color10": "#355e8d",
+        "color11": "#64729d",
+        "color12": "#ff5f2a",
+        "color13": "#ffd72c",
+        "color14": "#248ac2",
+        "color15": "#e2e9fb"
+    }
+}

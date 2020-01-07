@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/luis-quintero-TYlR9NGFrPs-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#620144",
+        "foreground": "#7adeef",
+        "cursor": "#7adeef"
+    },
+    "colors": {
+        "color0": "#620144",
+        "color1": "#E61A8A",
+        "color2": "#D64CA0",
+        "color3": "#0790EE",
+        "color4": "#289EE8",
+        "color5": "#08AEEF",
+        "color6": "#58B7E8",
+        "color7": "#7adeef",
+        "color8": "#559ba7",
+        "color9": "#E61A8A",
+        "color10": "#D64CA0",
+        "color11": "#0790EE",
+        "color12": "#289EE8",
+        "color13": "#08AEEF",
+        "color14": "#58B7E8",
+        "color15": "#7adeef"
+    }
+}

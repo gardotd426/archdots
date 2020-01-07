@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/alexander-popov-3InMDrsuYrk-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#150c1b",
+        "foreground": "#a4d1ec",
+        "cursor": "#a4d1ec"
+    },
+    "colors": {
+        "color0": "#150c1b",
+        "color1": "#05427A",
+        "color2": "#CA0D54",
+        "color3": "#034F90",
+        "color4": "#0563AD",
+        "color5": "#0E71C0",
+        "color6": "#0498E1",
+        "color7": "#a4d1ec",
+        "color8": "#7292a5",
+        "color9": "#05427A",
+        "color10": "#CA0D54",
+        "color11": "#034F90",
+        "color12": "#0563AD",
+        "color13": "#0E71C0",
+        "color14": "#0498E1",
+        "color15": "#a4d1ec"
+    }
+}

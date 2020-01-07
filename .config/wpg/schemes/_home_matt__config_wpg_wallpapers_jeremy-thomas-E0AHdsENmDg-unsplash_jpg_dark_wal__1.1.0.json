@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/jeremy-thomas-E0AHdsENmDg-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#03132b",
+        "foreground": "#aebbd2",
+        "cursor": "#aebbd2"
+    },
+    "colors": {
+        "color0": "#03132b",
+        "color1": "#50576F",
+        "color2": "#365489",
+        "color3": "#3A678F",
+        "color4": "#556BA0",
+        "color5": "#6D7BC1",
+        "color6": "#8878A8",
+        "color7": "#aebbd2",
+        "color8": "#798293",
+        "color9": "#50576F",
+        "color10": "#365489",
+        "color11": "#3A678F",
+        "color12": "#556BA0",
+        "color13": "#6D7BC1",
+        "color14": "#8878A8",
+        "color15": "#aebbd2"
+    }
+}

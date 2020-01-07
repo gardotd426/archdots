@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/End_Of_The_day.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0806",
+        "foreground": "#c0c1c7",
+        "cursor": "#c0c1c7"
+    },
+    "colors": {
+        "color0": "#0b0806",
+        "color1": "#62626B",
+        "color2": "#9F5227",
+        "color3": "#9F8274",
+        "color4": "#346488",
+        "color5": "#6C7688",
+        "color6": "#788699",
+        "color7": "#c0c1c7",
+        "color8": "#86878b",
+        "color9": "#62626B",
+        "color10": "#9F5227",
+        "color11": "#9F8274",
+        "color12": "#346488",
+        "color13": "#6C7688",
+        "color14": "#788699",
+        "color15": "#c0c1c7"
+    }
+}

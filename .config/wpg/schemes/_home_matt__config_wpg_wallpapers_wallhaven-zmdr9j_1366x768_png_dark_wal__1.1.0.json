@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/wallhaven-zmdr9j_1366x768.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#24172e",
+        "foreground": "#e9e5e7",
+        "cursor": "#e9e5e7"
+    },
+    "colors": {
+        "color0": "#24172e",
+        "color1": "#DCA74E",
+        "color2": "#484F9A",
+        "color3": "#DF338C",
+        "color4": "#C458AA",
+        "color5": "#439CC9",
+        "color6": "#D6ACB4",
+        "color7": "#e9e5e7",
+        "color8": "#a3a0a1",
+        "color9": "#DCA74E",
+        "color10": "#484F9A",
+        "color11": "#DF338C",
+        "color12": "#C458AA",
+        "color13": "#439CC9",
+        "color14": "#D6ACB4",
+        "color15": "#e9e5e7"
+    }
+}

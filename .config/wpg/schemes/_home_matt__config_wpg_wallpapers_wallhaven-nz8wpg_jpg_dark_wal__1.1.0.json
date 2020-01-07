@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/wallhaven-nz8wpg.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#021421",
+        "foreground": "#94d7d6",
+        "cursor": "#94d7d6"
+    },
+    "colors": {
+        "color0": "#021421",
+        "color1": "#1E6A5C",
+        "color2": "#07516A",
+        "color3": "#0E6A72",
+        "color4": "#2C8C74",
+        "color5": "#09718C",
+        "color6": "#1199A5",
+        "color7": "#94d7d6",
+        "color8": "#679695",
+        "color9": "#1E6A5C",
+        "color10": "#07516A",
+        "color11": "#0E6A72",
+        "color12": "#2C8C74",
+        "color13": "#09718C",
+        "color14": "#214743",
+        "color15": "#94d7d6"
+    }
+}

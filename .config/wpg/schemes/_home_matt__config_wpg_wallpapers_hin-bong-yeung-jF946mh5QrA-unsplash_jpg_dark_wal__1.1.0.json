@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/hin-bong-yeung-jF946mh5QrA-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#11151c",
+        "foreground": "#dfaccb",
+        "cursor": "#dfaccb"
+    },
+    "colors": {
+        "color0": "#11151c",
+        "color1": "#C9203E",
+        "color2": "#90345C",
+        "color3": "#9B4F6D",
+        "color4": "#8E797E",
+        "color5": "#AA6390",
+        "color6": "#CE64AD",
+        "color7": "#dfaccb",
+        "color8": "#9c788e",
+        "color9": "#C9203E",
+        "color10": "#90345C",
+        "color11": "#9B4F6D",
+        "color12": "#8E797E",
+        "color13": "#AA6390",
+        "color14": "#CE64AD",
+        "color15": "#dfaccb"
+    }
+}

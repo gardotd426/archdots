@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/thomas-kinto-Ur_m4yhaCkg-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e1015",
+        "foreground": "#a2c2c3",
+        "cursor": "#a2c2c3"
+    },
+    "colors": {
+        "color0": "#0e1015",
+        "color1": "#582E61",
+        "color2": "#d62b1d",
+        "color3": "#F10405",
+        "color4": "#09AE1F",
+        "color5": "#2533B5",
+        "color6": "#EE1BBD",
+        "color7": "#a2c2c3",
+        "color8": "#718788",
+        "color9": "#582E61",
+        "color10": "#BE281B",
+        "color11": "#F10405",
+        "color12": "#09AE1F",
+        "color13": "#2533B5",
+        "color14": "#EE1BBD",
+        "color15": "#a2c2c3"
+    }
+}

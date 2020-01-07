@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/steve-johnson-eJ6rcZbS06w-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#070610",
+        "foreground": "#efe2d2",
+        "cursor": "#efe2d2"
+    },
+    "colors": {
+        "color0": "#070610",
+        "color1": "#196e9a",
+        "color2": "#4D6888",
+        "color3": "#9B7488",
+        "color4": "#23A0AD",
+        "color5": "#BDAFA4",
+        "color6": "#eabf95",
+        "color7": "#efe2d2",
+        "color8": "#a79e93",
+        "color9": "#055F8D",
+        "color10": "#4D6888",
+        "color11": "#9B7488",
+        "color12": "#23A0AD",
+        "color13": "#BDAFA4",
+        "color14": "#F7D4B2",
+        "color15": "#efe2d2"
+    }
+}

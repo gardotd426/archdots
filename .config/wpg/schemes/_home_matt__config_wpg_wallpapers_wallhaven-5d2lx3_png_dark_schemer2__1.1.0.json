@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/wallhaven-5d2lx3.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0e191b",
+        "foreground": "#c2c5c6",
+        "cursor": "#c2c5c6"
+    },
+    "colors": {
+        "color0": "#0e191b",
+        "color1": "#17a4cd",
+        "color2": "#f64585",
+        "color3": "#50a7df",
+        "color4": "#23c1ef",
+        "color5": "#14ecff",
+        "color6": "#3edff0",
+        "color7": "#c2c5c6",
+        "color8": "#4a5254",
+        "color9": "#17a4cd",
+        "color10": "#f64585",
+        "color11": "#50a7df",
+        "color12": "#23c1ef",
+        "color13": "#14ecff",
+        "color14": "#3edff0",
+        "color15": "#c2c5c6"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/matt/.config/wpg/wallpapers/wallhaven-oxll8m.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D0104",
+        "foreground": "#ad80c0",
+        "cursor": "#ad80c0"
+    },
+    "colors": {
+        "color0": "#0D0104",
+        "color1": "#500C4B",
+        "color2": "#69115D",
+        "color3": "#95251F",
+        "color4": "#C15034",
+        "color5": "#99205D",
+        "color6": "#E49D2C",
+        "color7": "#ad80c0",
+        "color8": "#795986",
+        "color9": "#500C4B",
+        "color10": "#69115D",
+        "color11": "#95251F",
+        "color12": "#C15034",
+        "color13": "#99205D",
+        "color14": "#E49D2C",
+        "color15": "#ad80c0"
+    }
+}
